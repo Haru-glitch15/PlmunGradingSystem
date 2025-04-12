@@ -1,0 +1,20 @@
+C:\Users\Administrator\Desktop\EVTPROG WEEK10\EVTPROG WEEK10\bin\Debug\EVTPROG WEEK10.exe.config
+C:\Users\Administrator\Desktop\EVTPROG WEEK10\EVTPROG WEEK10\bin\Debug\EVTPROG WEEK10.exe
+C:\Users\Administrator\Desktop\EVTPROG WEEK10\EVTPROG WEEK10\bin\Debug\EVTPROG WEEK10.pdb
+C:\Users\Administrator\Desktop\EVTPROG WEEK10\EVTPROG WEEK10\obj\Debug\EVTPROG WEEK10.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\EVTPROG WEEK10\EVTPROG WEEK10\obj\Debug\EVTPROG_WEEK10.dgvStudents.resources
+C:\Users\Administrator\Desktop\EVTPROG WEEK10\EVTPROG WEEK10\obj\Debug\EVTPROG_WEEK10.Properties.Resources.resources
+C:\Users\Administrator\Desktop\EVTPROG WEEK10\EVTPROG WEEK10\obj\Debug\EVTPROG WEEK10.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\EVTPROG WEEK10\EVTPROG WEEK10\obj\Debug\EVTPROG WEEK10.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\EVTPROG WEEK10\EVTPROG WEEK10\obj\Debug\EVTPROG WEEK10.exe
+C:\Users\Administrator\Desktop\EVTPROG WEEK10\EVTPROG WEEK10\obj\Debug\EVTPROG WEEK10.pdb
+C:\Users\Admin\source\repos\EVTPROG WEEK10\bin\Debug\EVTPROG WEEK10.exe.config
+C:\Users\Admin\source\repos\EVTPROG WEEK10\bin\Debug\EVTPROG WEEK10.exe
+C:\Users\Admin\source\repos\EVTPROG WEEK10\bin\Debug\EVTPROG WEEK10.pdb
+C:\Users\Admin\source\repos\EVTPROG WEEK10\obj\Debug\EVTPROG WEEK10.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\EVTPROG WEEK10\obj\Debug\EVTPROG_WEEK10.Form1.resources
+C:\Users\Admin\source\repos\EVTPROG WEEK10\obj\Debug\EVTPROG_WEEK10.Properties.Resources.resources
+C:\Users\Admin\source\repos\EVTPROG WEEK10\obj\Debug\EVTPROG WEEK10.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\EVTPROG WEEK10\obj\Debug\EVTPROG WEEK10.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\EVTPROG WEEK10\obj\Debug\EVTPROG WEEK10.exe
+C:\Users\Admin\source\repos\EVTPROG WEEK10\obj\Debug\EVTPROG WEEK10.pdb
